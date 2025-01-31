@@ -49,7 +49,8 @@ PostgreSQL is a powerful, open-source relational database management system know
   1. requests(API calls)
   2. pandas (Data transformation)
   3. psycopg2 (Database connection)
-  4. streamlit (UI development) 
+  4. sqlalchemy(To push DataFrame to PostgreSQL)
+  5. streamlit (UI development) 
 
 ### PROJECT FEATURES:
   * Retrieve and Store Tennis Event Data from Sportradar API.
